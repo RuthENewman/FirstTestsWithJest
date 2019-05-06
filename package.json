@@ -1,0 +1,14 @@
+{
+  "name": "jesttestingbasics",
+  "version": "1.0.0",
+  "description": "Simple tests with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ruth Newman",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
