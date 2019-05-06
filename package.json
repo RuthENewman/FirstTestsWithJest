@@ -4,7 +4,8 @@
   "description": "Simple tests with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "author": "Ruth Newman",
   "license": "ISC",
